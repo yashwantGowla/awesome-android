@@ -1,6 +1,6 @@
-# OSSDroid
+# Awesome Android
 
-This section is about open source software (OSS) relating to Android-based distributions.
+A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
 Table of contents
 =================
