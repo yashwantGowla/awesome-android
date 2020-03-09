@@ -1,5 +1,4 @@
-# Free and Open Source Android Apps
-
+# Awesome Android
 Table of contents
 =================
   * [Advertisement blocking](#advertisement-blocking)
