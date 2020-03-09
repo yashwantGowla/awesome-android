@@ -1,4 +1,7 @@
-# Awesome Android
+# OSSDroid
+
+This section is about open source software (OSS) relating to Android-based distributions.
+
 Table of contents
 =================
   * [Advertisement blocking](#advertisement-blocking)
