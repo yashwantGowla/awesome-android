@@ -363,6 +363,14 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
 - [**Source Code**](https://github.com/LawnchairLauncher/Lawnchair)
 
+### Lawndesk
+
+*Fork of Lawnchair V2; app-drawer-free launcher.*
+
+- **Requires Root**: No
+- [**Download from GitHub**](https://github.com/renzhn/Lawndesk)
+- [**Source Code**](https://github.com/renzhn/Lawndesk)
+
 ### Librechair
 
 *Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).*
