@@ -70,6 +70,14 @@ Table of contents
 
 ## Book Readers
 
+### Book Reader
+
+*Based on [FBReader](https://fbreader.org/); book reader with a simple UI.*
+
+- **Requires Root**: No
+- [F-Droid](https://f-droid.org/packages/com.github.axet.bookreader/)
+- [**Source Code**](https://gitlab.com/axet/android-book-reader/tree/HEAD)
+
 ### [Tachiyomi](https://tachiyomi.org/)
 
 *Manga reader.*
@@ -77,6 +85,14 @@ Table of contents
 - **Requires Root**: No
 - [**F-Droid**](https://f-droid.org/en/packages/eu.kanade.tachiyomi/)
 - [**Source Code**](https://github.com/inorichi/tachiyomi)
+
+### Shosetsu
+
+*Light novel reader.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/packages/com.github.doomsdayrs.apps.shosetsu/)
+- [**Source Code**](https://github.com/ShosetsuOrg/android-app)
 
 ## Browsers
 
