@@ -458,7 +458,6 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.parseus.codecinfo)
 - [**Source Code**](https://github.com/Parseus/codecinfo)
 
-
 ### [Exodus](https://exodus-privacy.eu.org/en/post/)
 
 *Tracker finder for a particular Android application.*
