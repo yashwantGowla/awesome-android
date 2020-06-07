@@ -293,6 +293,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *Minimal media player.*
 
 - **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/org.videolan.vlc)
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 - [**Source Code**](https://github.com/videolan/vlc)
 
@@ -345,6 +346,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *Minimal media player.*
 
 - **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/org.videolan.vlc)
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 - [**Source Code**](https://github.com/videolan/vlc)
 
@@ -447,6 +449,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :)*
 
 - **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/ch.protonvpn.android)
 - [**Google Play**](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
 - [**Source Code**](https://github.com/ProtonVPN/android-app)
 
