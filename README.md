@@ -250,7 +250,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ### RedReader for Reddit
 
-*Unofficial Reddit client; material-dedign; ad-free and has tons of customisation.*
+*Unofficial Reddit client; material-design; ad-free and has tons of customisation.*
 
 - **Requires Root**: No
 - [**F-Droid**](https://f-droid.org/en/packages/org.quantumbadger.redreader/)
@@ -259,7 +259,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ### [Slide](https://www.reddit.com/r/slideforreddit/)
 
-*Unofficial Reddit client; material-dedign; ad-free and has tons of customisation.*
+*Unofficial Reddit client; material-design; ad-free and has tons of customisation.*
 
 - **Requires Root**: No
 - [**F-Droid**](https://f-droid.org/en/packages/me.ccrama.redditslide/)
@@ -333,6 +333,8 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ### Vinyl Music Player
 
+*Local music player for Android.*
+
 - **Requires Root**: No
 - [**F-Droid**](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer&hl=en_US)
@@ -358,7 +360,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ### ~~[OnlyOffice](https://www.onlyoffice.com/)~~
 
-~~*Office suite available for Android, GNU/Linux, iOS, macOS, Windows.*~~
+*~~Office suite available for Android, GNU/Linux, iOS, macOS, Windows.~~*
 
 **EDIT: This app is _proprietary_.**
 
@@ -540,6 +542,8 @@ Want to contribute? Feel free to fork the project and send merge requests when y
 [pcqpcq / open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)
 
 [unicodedeveloper / awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps#android)
+
+[samedamci / FOSS_Stuff](https://git.samedamci.me/samedamci/FOSS_Stuff)
 
 ## External sources
 
