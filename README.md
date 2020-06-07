@@ -293,6 +293,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *Minimal media player.*
 
 - **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/org.videolan.vlc)
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 - [**Source Code**](https://github.com/videolan/vlc)
 
@@ -345,6 +346,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *Minimal media player.*
 
 - **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/org.videolan.vlc)
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 - [**Source Code**](https://github.com/videolan/vlc)
 
