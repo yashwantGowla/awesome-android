@@ -70,7 +70,7 @@ Table of contents
 
 ## Book Readers
 
-### Book Reader
+### [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD)
 
 *Based on [FBReader](https://fbreader.org/); book reader with a simple UI.*
 
@@ -86,7 +86,7 @@ Table of contents
 - [**F-Droid**](https://f-droid.org/en/packages/eu.kanade.tachiyomi/)
 - [**Source Code**](https://github.com/inorichi/tachiyomi)
 
-### Shosetsu
+### [Shosetsu](https://github.com/ShosetsuOrg/android-app)
 
 *Light novel reader.*
 
@@ -104,7 +104,7 @@ Table of contents
 - [**External F-Droid Repository**](https://fdroid.bromite.org/fdroid/repo)
 - [**Source Code**](https://github.com/bromite/bromite)
 
-### Fennec F-Droid
+### [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 
 *Based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android.*
 
@@ -160,7 +160,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ## Communication
 
-### Conversations
+### [Conversations](https://github.com/siacs/Conversations)
 
 *XMPP/Jabber client.*
 
@@ -178,7 +178,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=chat.delta)
 - [**Source Code**](https://github.com/deltachat/deltachat-android)
 
-### Infinity for Reddit
+### [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 
 *This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.*
 
@@ -221,7 +221,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en_US)
 - [**Source Code**](https://invent.kde.org/kde/kdeconnect-android)
 
-### OpenBoard
+### [OpenBoard](https://github.com/dslul/openboard)
 
 *Fork of AOSP Keyboard; minimal and simple to use.*
 
@@ -230,7 +230,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin)
 - [**Source Code**](https://github.com/dslul/openboard)
 
-### QKSMS
+### [QKSMS](https://github.com/moezbhatti/qksms)
 
 *SMS Messaging app.*
 
@@ -248,7 +248,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.yaxim.androidclient)
 - [**Source Code**](https://github.com/yaxim-org/yaxim)
 
-### RedReader for Reddit
+### [RedReader for Reddit](https://github.com/QuantumBadger/RedReader)
 
 *Unofficial Reddit client; material-design; ad-free and has tons of customisation.*
 
@@ -307,7 +307,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ## Music
 
-### Music
+### [Music](https://github.com/MaxFour/Music-Player)
 
 *Lightweight and Material Music Player.*
 
@@ -315,7 +315,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid**](https://f-droid.org/en/packages/com.maxfour.music/)
 - [**Source Code**](https://github.com/MaxFour/Music-Player)
 
-### Odyssey Music Player
+### [Odyssey Music Player](https://github.com/gateship-one/odyssey)
 
 *Lightweight music player.*
 
@@ -324,7 +324,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey)
 - [**Source Code**](https://github.com/gateship-one/odyssey)
 
-### Retro Music Player
+### [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer)
 
 *Local music player for Android.*
 
@@ -332,7 +332,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [**Source Code**](https://github.com/h4h13/RetroMusicPlayer)
 
-### Shuttle Music Player
+### [Shuttle Music Player](https://github.com/timusus/Shuttle)
 
 *Local music player for Android.*
 
@@ -340,7 +340,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=another.music.player)
 - [**Source Code**](https://github.com/timusus/Shuttle)
 
-### Vinyl Music Player
+### [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
 *Local music player for Android.*
 
@@ -389,7 +389,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
 - [**Source Code**](https://github.com/LawnchairLauncher/Lawnchair)
 
-### Lawndesk
+### [Lawndesk](https://github.com/renzhn/Lawndesk)
 
 *Fork of Lawnchair V2; app-drawer-free launcher.*
 
@@ -397,7 +397,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Download from GitHub**](https://github.com/renzhn/Lawndesk)
 - [**Source Code**](https://github.com/renzhn/Lawndesk)
 
-### Librechair
+### [Librechair](https://gitlab.com/oldosfan/librechair)
 
 *Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).*
 
@@ -405,7 +405,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Telegram**](https://t.me/librechair)
 - [**Source Code**](https://gitlab.com/oldosfan/librechair)
 
-### OpenLauncher
+### [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher)
 
 *Launcher that aims to be a powerful and community driven project.*
 
@@ -499,7 +499,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Magisk Manager**](https://magiskmanager.com/downloading-magisk-manager)
 - [**Source Code**](https://github.com/topjohnwu/Magisk)
 
-### Material Files
+### [Material Files](https://github.com/zhanghai/MaterialFiles)
 
 *Material Design file manager.*
 
@@ -516,7 +516,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid repository**](https://microg.org/download.html)
 - [**Source Code**](https://github.com/microg)
 
-### ScreenCam
+### [ScreenCam](https://gitlab.com/vijai/screenrecorder)
 
 *Lightweight and functional screen recorder*
 
@@ -524,7 +524,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid**](https://f-droid.org/en/packages/com.orpheusdroid.screenrecorder/)
 - [**Source Code**](https://gitlab.com/vijai/screenrecorder)
 
-### Shelter
+### [Shelter](https://f-droid.org/en/packages/net.typeblog.shelter/)
 
 *Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.*
 
