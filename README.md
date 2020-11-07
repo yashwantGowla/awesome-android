@@ -329,6 +329,14 @@ NOTE: It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
 
 ## Music
 
+### [Metro](https://github.com/MuntashirAkon/Metro)
+
+*Fork of [Retro Music Player](#retro-music-player) with removed proprietary Google Play libraries.*
+
+- **Requires Root**: No
+- [**F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
+- [**Source Code**](https://github.com/MuntashirAkon/Metro)
+
 ### [Music](https://github.com/MaxFour/Music-Player)
 
 *Lightweight and Material Music Player.*
