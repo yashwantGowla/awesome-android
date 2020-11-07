@@ -204,6 +204,27 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid**](https://f-droid.org/packages/com.pitchedapps.frost/)
 - [**Source Code**](https://github.com/AllanWang/Frost-for-Facebook)
 
+### [Tusky](https://tusky.app/)
+
+*Mastodon client for Android.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/packages/com.keylesspalace.tusky/)
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
+- [**Source Code**](https://github.com/tuskyapp/Tusky)
+
+### [Fedilab](https://fedilab.app/)
+
+*Fedilab is a multifunctional Android client to access the distributed Fediverse.*
+
+NOTE: It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/packages/fr.gouv.etalab.mastodon/)
+- [**Google Play**](https://play.google.com/store/apps/details?id=app.fedilab.android)
+- [**Source Code**](https://framagit.org/tom79/fedilab)
+
+
 ### [Jitsi Meet](https://jitsi.org/jitsi-meet/)
 
 *Instant video conferences efficiently adapting to your scale.*
