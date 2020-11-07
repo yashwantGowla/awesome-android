@@ -484,6 +484,15 @@ NOTE: It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
 
 ## Others
 
+### [Termux](https://termux.com/)
+
+*Termux is an Android terminal emulator and Linux environment app.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/com.termux/)
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.termux)
+- [**Source Code**](https://github.com/termux/termux-app)
+
 ### [Codec Info](https://exodus-privacy.eu.org/en/post/)
 
 *Detailed listing of multimedia codecs on your Android device - with no ads!*
