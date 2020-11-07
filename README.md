@@ -425,7 +425,7 @@ NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual va
 
 *A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.*
 
-- **Requires Root**]: No
+- **Requires Root**: No
 - [**Direct download link**](https://masterpassword.app/masterpassword-android.apk)
 - [**Source code**](https://gitlab.com/MasterPassword/MasterPassword)
 
