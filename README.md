@@ -560,6 +560,14 @@ NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual va
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.oasisfeng.island)
 - [**Source Code**](https://github.com/oasisfeng/island)
 
+### [Insular](https://gitlab.com/secure-system/Insular)
+
+*Fork of [Island](#island) with removed proprietary Google Play libraries.*
+
+- **Requires Root**: No
+- [**Google Play**](https://play.google.com/store/apps/details?id=org.securesystem.insular)
+- [**Source Code**](https://gitlab.com/secure-system/Insular)
+
 ### [Magisk Manager](https://magiskmanager.com/)
 
 *Front-end to [Magisk](https://magisk.me/).*
