@@ -491,6 +491,7 @@ NOTE: It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
 - **Requires Root**: No
 - [**F-Droid**](https://f-droid.org/en/packages/com.termux/)
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.termux)
+- [**Kali NetHunter**](https://store.nethunter.com/en/packages/com.termux/)
 - [**Source Code**](https://github.com/termux/termux-app)
 
 ### [Codec Info](https://exodus-privacy.eu.org/en/post/)
