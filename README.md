@@ -14,6 +14,7 @@ Table of contents
   * [Media Players](#media-players)
   * [Music](#music)
   * [Office](#office)
+  * [Password managers](#password-managers)
   * [Personalisation](#personalisation)
   * [Photos](#photos)
   * [Streaming](#streaming)
@@ -398,6 +399,35 @@ NOTE: It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
 - ~~**Requires Root**: No~~
 - ~~[**Google Play**](https://play.google.com/store/apps/details?id=com.onlyoffice.documents)~~
 - ~~[**Source Code**](https://github.com/ONLYOFFICE)~~
+
+## Password managers
+
+### [Bitwarden](https://bitwarden.com/)
+
+*Free and open-source, cross-platform password manager available via cloud/self-hosting.*
+
+NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual vault syncing is required with that version.
+
+- **Requires Root**: No
+- [**F-Droid**](https://mobileapp.bitwarden.com/fdroid/)
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+- [**Source Code**](https://github.com/bitwarden/mobile)
+
+### [Keepass2Android](https://github.com/PhilippC/keepass2android)
+
+*Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports.*
+
+- **Requires Root**: No
+- [**Google Play**](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
+- [**Source Code**](https://github.com/PhilippC/keepass2android)
+
+### [Master Password](https://masterpassword.app/)
+
+*A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.*
+
+- **Requires Root**]: No
+- [**Direct download link**](https://masterpassword.app/masterpassword-android.apk)
+- [**Source code**](https://gitlab.com/MasterPassword/MasterPassword)
 
 ## Personalisation
 
