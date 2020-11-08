@@ -1,8 +1,8 @@
-# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Android Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
-Table of contents
+Contents
 =================
   * [Advertisement blocking](#advertisement-blocking)
   * [App stores](#app-stores)
@@ -45,12 +45,12 @@ Table of contents
 - [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android - NOTE: There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime.
 - [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) - Privacy-oriented browser with tracking protection and content blocking.
 - [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market.
-- [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.*
-- [Privacy Browser](https://www.stoutner.com/privacy-browser/) - Minimal browser focused for privacy.*
+- [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.
+- [Privacy Browser](https://www.stoutner.com/privacy-browser/) - Minimal browser focused for privacy.
 
 ## Cameras
 
-- [Open Camera](https://opencamera.sourceforge.io/) - Camera app with DSLR features.*
+- [Open Camera](https://opencamera.sourceforge.io/) - Camera app with DSLR features.
 
 ## Communication
 
