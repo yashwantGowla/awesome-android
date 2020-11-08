@@ -21,9 +21,6 @@ Table of contents
   * [VPN](#vpn)
   * [Others](#others)
   * [Modding](#modding)
-  * [Contributing](#contributing)
-  * [Other Git Repositories](#other-git-repositories)
-  * [External sources](#external-sources)
 
 ## Advertisement blocking
 
@@ -39,14 +36,13 @@ Table of contents
 ## Book Readers
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
 - [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
 
 ## Browsers
 
 - [Bromite](https://www.bromite.org/) - Based on Chromium; built-in adblocking; enhanced privacy; degoogled.
-- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android. NOTE: There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime.
-
+- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android - NOTE: There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime.
 - [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) - Privacy-oriented browser with tracking protection and content blocking.
 - [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market.
 - [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.*
@@ -58,21 +54,21 @@ Table of contents
 
 ## Communication
 
+- [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
 - [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
 - [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
-- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
-- [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
-- [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
-- [Tusky](https://tusky.app/) - Mastodon client for Android.
 - [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
+- [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
+- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale.
 - [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other.
 - [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use.
 - [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
-- [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
 - [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
+- [Tusky](https://tusky.app/) - Mastodon client for Android.
+- [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
 
 ## Education
 
@@ -122,83 +118,27 @@ Table of contents
 
 ## VPN
 
+- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) - [**Source Code**](https://github.com/ProtonVPN/android-app)).
 - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**)
-- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
 
 ## Others
 
-- [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
-- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.*
+- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
+- [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 
 ## Modding
 
 > **NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.**
 
-### [Island](https://island.oasisfeng.com/)
-
-*By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them.*
-
-- **Requires Root**: No (Optional)
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.oasisfeng.island)
-- [**Source Code**](https://github.com/oasisfeng/island)
-
-### [Insular](https://gitlab.com/secure-system/Insular)
-
-*Fork of [Island](#island) with removed proprietary Google Play libraries.*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.securesystem.insular)
-- [**Source Code**](https://gitlab.com/secure-system/Insular)
-
-### [Magisk Manager](https://magiskmanager.com/)
-
-*Front-end to [Magisk](https://magisk.me/).*
-
-- **Requires Root**: Yes
-- [**Magisk Manager**](https://magiskmanager.com/downloading-magisk-manager)
-- [**Source Code**](https://github.com/topjohnwu/Magisk)
-
-### [Material Files](https://github.com/zhanghai/MaterialFiles)
-
-*Material Design file manager.*
-
-- **Requires Root**: No (Optional)
-- [**F-Droid**](https://f-droid.org/packages/me.zhanghai.android.files/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
-- [**Source Code**](https://github.com/zhanghai/MaterialFiles)
-
-### [microG](https://microg.org/)
-
-*FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install.*
-
-- **Requires Root**: No **(NOTE: Custom ROM with [Signature Spoofing](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing) support required!)**
-- [**F-Droid repository**](https://microg.org/download.html)
-- [**Source Code**](https://github.com/microg)
-
-### [ScreenCam](https://gitlab.com/vijai/screenrecorder)
-
-*Lightweight and functional screen recorder*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/com.orpheusdroid.screenrecorder/)
-- [**Source Code**](https://gitlab.com/vijai/screenrecorder)
-
-### [Shelter](https://f-droid.org/en/packages/net.typeblog.shelter/)
-
-*Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/net.typeblog.shelter/)
-- [**Source Code**](https://git.angry.im/PeterCxy/Shelter)
-
-### [Smartpack-Kernel Manager](https://smartpack.github.io/spkm/)
-
-*Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features.*
-
-- **Requires Root**: **Yes**
-- [**Download from GitHub**](https://github.com/SmartPack/SmartPack-Kernel-Manager/releases)
-- [**Source Code**](https://github.com/SmartPack/SmartPack-Kernel-Manager/)
+- [Island](https://island.oasisfeng.com/) - By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them. - [**Source Code**](https://github.com/oasisfeng/island)
+- [Insular](https://gitlab.com/secure-system/Insular) - Fork of [Island](#island) with removed proprietary Google Play libraries.
+- [Magisk Manager](https://github.com/topjohnwu/Magisk) - Front-end to [Magisk](https://magisk.me/).
+- [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager.
+- [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install. - [**Source Code**](https://github.com/microg).
+- [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
+- [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.
+- [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features.
 
 ## Contributing
 
