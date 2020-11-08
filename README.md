@@ -1,8 +1,8 @@
-# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Android Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
-Table of contents
+Contents
 =================
   * [Advertisement blocking](#advertisement-blocking)
   * [App stores](#app-stores)
@@ -21,601 +21,124 @@ Table of contents
   * [VPN](#vpn)
   * [Others](#others)
   * [Modding](#modding)
-  * [Contributing](#contributing)
-  * [Other Git Repositories](#other-git-repositories)
-  * [External sources](#external-sources)
 
 ## Advertisement blocking
 
-### [AdAway](https://adaway.org/)
-
-*Ad blocker for Android using the hosts file.*
-
-- **Requires Root**: **Yes**
-- [**F-Droid**](https://www.f-droid.org/en/packages/org.adaway/)
-- [**Source Code**](https://github.com/AdAway/AdAway)
-
-### [Blokada](https://blokada.org/)
-
-*Ad blocker for Android using the VPN API.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.blokada.alarm/)
-- [**Source Code**](https://github.com/blokadaorg/blokada)
-
-### [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/)
-
-*Ad blocker for Android using a VPN, supports hosts files.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/dnsfilter.android/)
-- [**Source Code**](https://github.com/IngoZenz/personaldnsfilter)
+- [AdAway](https://adaway.org/) - Ad blocker for Android using the hosts file (Require root).
+- [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API.
+- [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) - Ad blocker for Android using a VPN, supports hosts files.
 
 ## App stores
 
-### [Aurora Droid](https://labs.xda-developers.com/store/app/com.aurora.adroid)
-
-*Fork of the F-Droid client with external repos ready to sync.*
-
-- **Requires Root**: Optional
-- [**F-Droid**](https://f-droid.org/en/packages/com.aurora.adroid/)
-- [**Source Code**](https://gitlab.com/AuroraOSS/auroradroid)
-
-### [Aurora Store](https://auroraoss.com/)
-
-*Unofficial FOSS client to Google Play Store.*
-
-- **Requires Root**: Optional
-- [**F-Droid**](https://f-droid.org/en/packages/com.aurora.adroid/)
-- [**Source Code**](https://gitlab.com/AuroraOSS/auroradroid)
+- [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync (Root permission is optional).
+- [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional).
 
 ## Book Readers
 
-### [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD)
-
-*Based on [FBReader](https://fbreader.org/); book reader with a simple UI.*
-
-- **Requires Root**: No
-- [F-Droid](https://f-droid.org/packages/com.github.axet.bookreader/)
-- [**Source Code**](https://gitlab.com/axet/android-book-reader/tree/HEAD)
-
-### [Tachiyomi](https://tachiyomi.org/)
-
-*Manga reader.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/eu.kanade.tachiyomi/)
-- [**Source Code**](https://github.com/inorichi/tachiyomi)
-
-### [Shosetsu](https://github.com/ShosetsuOrg/android-app)
-
-*Light novel reader.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/com.github.doomsdayrs.apps.shosetsu/)
-- [**Source Code**](https://github.com/ShosetsuOrg/android-app)
+- [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
+- [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
 
 ## Browsers
 
-### [Bromite](https://www.bromite.org/)
-
-*Based on Chromium; built-in adblocking; enhanced privacy; degoogled.*
-
-- **Requires Root**: No
-- [**External F-Droid Repository**](https://fdroid.bromite.org/fdroid/repo)
-- [**Source Code**](https://github.com/bromite/bromite)
-
-### [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
-
-*Based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android.*
-
-NOTE: There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime.
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
-- [**Source Code**](https://hg.mozilla.org/releases/mozilla-esr68/)
-
-### [Firefox Focus](https://support.mozilla.org/en-US/kb/focus)
-
-*Privacy-oriented browser with tracking protection and content blocking.*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.mozilla.focus)
-- [**Source Code**](https://github.com/mozilla-mobile/focus-android)
-
-### [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android)
-
-*Privacy-oriented browser with tracking protection and content blocking; for the German market.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.mozilla.klar/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.mozilla.klar&hl=en_US)
-- [**Source Code**](https://github.com/mozilla-mobile/focus-android)
-
-### [Kiwi Browser](https://kiwibrowser.com/)
-
-*Based on Chrome Canary; extension support; built-in dark mode; degoogled.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
-- [**Source Code**](https://github.com/kiwibrowser)
-
-### [Privacy Browser](https://www.stoutner.com/privacy-browser/)
-
-*Minimal browser focused for privacy.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/com.stoutner.privacybrowser.standard/)
-- [**Source Code**](https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary)
+- [Bromite](https://www.bromite.org/) - Based on Chromium; built-in adblocking; enhanced privacy; degoogled.
+- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android - NOTE: There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime.
+- [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) - Privacy-oriented browser with tracking protection and content blocking.
+- [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market.
+- [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.
+- [Privacy Browser](https://www.stoutner.com/privacy-browser/) - Minimal browser focused for privacy.
 
 ## Cameras
 
-### [Open Camera](https://opencamera.sourceforge.io/)
-
-*Camera app with DSLR features.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
-- [**Source Code**](https://sourceforge.net/p/opencamera/code/ci/master/tree/)
+- [Open Camera](https://opencamera.sourceforge.io/) - Camera app with DSLR features.
 
 ## Communication
 
-### [Conversations](https://github.com/siacs/Conversations)
-
-*XMPP/Jabber client.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/eu.siacs.conversations/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=eu.siacs.conversations&referrer=utm_source%3Dgithub)
-- [**Source Code**](https://github.com/siacs/Conversations)
-
-### [Delta Chat](https://delta.chat/en/)
-
-*Email-based instant messaging for Android.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/app/com.b44t.messenger)
-- [**Google Play**](https://play.google.com/store/apps/details?id=chat.delta)
-- [**Source Code**](https://github.com/deltachat/deltachat-android)
-
-### [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-
-*This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.*
-
-- **Requires Root**: No
-- [**External F-Droid Repository**](https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit)
-- [**Google Play**](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
-- [**Source Code**](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-
-### [AnySoftKeyboard](https://anysoftkeyboard.github.io/)
-
-*Keyboard with tons of features.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard)
-- [**Source Code**](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
-
-### [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/)
-
-*Third-party app for Facebook.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/com.pitchedapps.frost/)
-- [**Source Code**](https://github.com/AllanWang/Frost-for-Facebook)
-
-### [Tusky](https://tusky.app/)
-
-*Mastodon client for Android.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/com.keylesspalace.tusky/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
-- [**Source Code**](https://github.com/tuskyapp/Tusky)
-
-### [Fedilab](https://fedilab.app/)
-
-*Fedilab is a multifunctional Android client to access the distributed Fediverse.*
-
-NOTE: It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/fr.gouv.etalab.mastodon/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=app.fedilab.android)
-- [**Source Code**](https://framagit.org/tom79/fedilab)
-
-
-### [Jitsi Meet](https://jitsi.org/jitsi-meet/)
-
-*Instant video conferences efficiently adapting to your scale.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.jitsi.meet/)
-- [**Source Code**](https://github.com/jitsi/jitsi-meet)
-
-### [KDE Connect](https://community.kde.org/KDEConnect)
-
-*A project that enables all your devices to communicate with each other.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en_US)
-- [**Source Code**](https://invent.kde.org/kde/kdeconnect-android)
-
-### [OpenBoard](https://github.com/dslul/openboard)
-
-*Fork of AOSP Keyboard; minimal and simple to use.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin)
-- [**Source Code**](https://github.com/dslul/openboard)
-
-### [QKSMS](https://github.com/moezbhatti/qksms)
-
-*SMS Messaging app.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/com.moez.QKSMS/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.moez.QKSMS)
-- [**Source Code**](https://github.com/moezbhatti/qksms)
-
-### [Yaxim](https://yaxim.org/)
-
-*Yet another XMPP instant messenger.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/repository/browse/?fdid=org.yaxim.androidclient)
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.yaxim.androidclient)
-- [**Source Code**](https://github.com/yaxim-org/yaxim)
-
-### [RedReader for Reddit](https://github.com/QuantumBadger/RedReader)
-
-*Unofficial Reddit client; material-design; ad-free and has tons of customisation.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.quantumbadger.redreader/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader)
-- [**Source Code**](https://github.com/QuantumBadger/RedReader)
-
-### [RTranslator](https://github.com/niedev/RTranslator)
-
-*Universal translator based on Google's APIs and Bluetooth LE*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=nie.translator.rtranslatordevedition)
-- [**Source Code**](https://github.com/niedev/RTranslator)
-
-### [Slide](https://www.reddit.com/r/slideforreddit/)
-
-*Unofficial Reddit client; material-design; ad-free and has tons of customisation.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/me.ccrama.redditslide/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=me.ccrama.redditslide&hl=en)
-- [**Source Code**](https://github.com/ccrama/Slide)
+- [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
+- [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
+- [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
+- [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
+- [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
+- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale.
+- [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other.
+- [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use.
+- [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
+- [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
+- [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
+- [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
+- [Tusky](https://tusky.app/) - Mastodon client for Android.
+- [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
 
 ## Education
 
-### [phyphox](https://phyphox.org/)
-
-*Sensors and data analyser.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/de.rwth_aachen.phyphox/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox)
-- [**Source Code**](https://github.com/Staacks/phyphox-android)
+- [phyphox](https://phyphox.org/) - Sensors and data analyser.
 
 ## Media Players
 
-### [mpv](https://mpv.io/)
-
-*Minimal media player.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv)
-- [**Google Play**](https://play.google.com/store/apps/details?id=is.xyz.mpv)
-- [**Source Code**](https://github.com/mpv-android/mpv-android)
-
-### [VLC](https://www.videolan.org/)
-
-*Minimal media player.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.videolan.vlc)
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.videolan.vlc)
-- [**Source Code**](https://github.com/videolan/vlc)
+- [mpv](https://mpv.io/) - Minimal media player.
+- [VLC](https://www.videolan.org/) - Minimal media player.
 
 ## Music
 
-### [Metro](https://github.com/MuntashirAkon/Metro)
-
-*Fork of [Retro Music Player](#retro-music-player) with removed proprietary Google Play libraries.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
-- [**Source Code**](https://github.com/MuntashirAkon/Metro)
-
-### [Music](https://github.com/MaxFour/Music-Player)
-
-*Lightweight and Material Music Player.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/com.maxfour.music/)
-- [**Source Code**](https://github.com/MaxFour/Music-Player)
-
-### [Odyssey Music Player](https://github.com/gateship-one/odyssey)
-
-*Lightweight music player.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/org.gateshipone.odyssey/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey)
-- [**Source Code**](https://github.com/gateship-one/odyssey)
-
-### [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer)
-
-*Local music player for Android.*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
-- [**Source Code**](https://github.com/h4h13/RetroMusicPlayer)
-
-### [Shuttle Music Player](https://github.com/timusus/Shuttle)
-
-*Local music player for Android.*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=another.music.player)
-- [**Source Code**](https://github.com/timusus/Shuttle)
-
-### [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer)
-
-*Local music player for Android.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer&hl=en_US)
-- [**Source Code**](https://github.com/AdrienPoupa/VinylMusicPlayer)
-
-### [VLC](https://www.videolan.org/)
-
-*Minimal media player.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.videolan.vlc)
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.videolan.vlc)
-- [**Source Code**](https://github.com/videolan/vlc)
+- [Metro](https://github.com/MuntashirAkon/Metro) - Fork of [Retro Music Player](#retro-music-player) with removed proprietary Google Play libraries.
+- [Music](https://github.com/MaxFour/Music-Player) - Lightweight and Material Music Player.
+- [Odyssey Music Player](https://github.com/gateship-one/odyssey) - Lightweight music player.
+- [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android.
+- [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android.
+- [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer) - Local music player for Android.
+- [VLC](https://www.videolan.org/) - Minimal media player.
 
 ## Office
 
-### [Collabora Office](https://www.collabora.com/)
-
-*Office suite available for Android, GNU/Linux, iOS, macOS, Windows.*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
-- [**Source Code**](https://gerrit.libreoffice.org/plugins/gitiles/online)
-
-### ~~[OnlyOffice](https://www.onlyoffice.com/)~~
-
-*~~Office suite available for Android, GNU/Linux, iOS, macOS, Windows.~~*
-
-**EDIT: This app is _proprietary_.**
-
-- ~~**Requires Root**: No~~
-- ~~[**Google Play**](https://play.google.com/store/apps/details?id=com.onlyoffice.documents)~~
-- ~~[**Source Code**](https://github.com/ONLYOFFICE)~~
+- [Collabora Office](https://gerrit.libreoffice.org/plugins/gitiles/online) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
+- [OnlyOffice](https://www.onlyoffice.com/) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows. **(This app is _proprietary).** 
 
 ## Password managers
 
-### [Bitwarden](https://bitwarden.com/)
-
-*Free and open-source, cross-platform password manager available via cloud/self-hosting.*
-
-NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual vault syncing is required with that version.
-
-- **Requires Root**: No
-- [**F-Droid**](https://mobileapp.bitwarden.com/fdroid/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
-- [**Source Code**](https://github.com/bitwarden/mobile)
-
-### [Keepass2Android](https://github.com/PhilippC/keepass2android)
-
-*Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports.*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
-- [**Source Code**](https://github.com/PhilippC/keepass2android)
-
-### [Master Password](https://masterpassword.app/)
-
-*A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.*
-
-- **Requires Root**: No
-- [**Direct download link**](https://masterpassword.app/masterpassword-android.apk)
-- [**Source code**](https://gitlab.com/MasterPassword/MasterPassword)
+- [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual vault syncing is required with that version.
+- [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports.
+- [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.
 
 ## Personalisation
 
-### [Lawnchair 2](https://lawnchair.app/)
-
-*Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3).*
-
-- **Requires Root**: No
-- [**APKMirror**](https://www.apkmirror.com/apk/deletescape/lawnchair/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
-- [**Source Code**](https://github.com/LawnchairLauncher/Lawnchair)
-
-### [Lawndesk](https://github.com/renzhn/Lawndesk)
-
-*Fork of Lawnchair V2; app-drawer-free launcher.*
-
-- **Requires Root**: No
-- [**Download from GitHub**](https://github.com/renzhn/Lawndesk)
-- [**Source Code**](https://github.com/renzhn/Lawndesk)
-
-### [Librechair](https://gitlab.com/oldosfan/librechair)
-
-*Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).*
-
-- **Requires Root**: No
-- [**Telegram**](https://t.me/librechair)
-- [**Source Code**](https://gitlab.com/oldosfan/librechair)
-
-### [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher)
-
-*Launcher that aims to be a powerful and community driven project.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/com.benny.openlauncher/)
-- [**Source Code**](https://github.com/OpenLauncherTeam/openlauncher)
+- [Lawnchair 2](https://lawnchair.app/) - Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3).
+- [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
+- [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).
+- [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) - Launcher that aims to be a powerful and community driven project.
 
 ## Photos
 
-### [Phimp.me](https://phimp.me/)
-
-*Photo Imaging and Picture Editor*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.fossasia.phimpme)
-- [**Source Code**](https://github.com/fossasia/phimpme-android)
+- [Phimp.me](https://github.com/fossasia/phimpme-android) - Photo Imaging and Picture Editor.
 
 ## Streaming
 
-### [NewPipe](https://newpipe.schabi.org/)
-
-*Lightweight Google-free YouTube client.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/packages/org.schabi.newpipe/)
-- [**Source Code**](https://github.com/TeamNewPipe/NewPipe)
-
-### [SkyTube](https://skytube-app.com/)
-
-*An open-source YouTube™ app for Android™.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/free.rm.skytube.oss/)
-- [**Source Code**](https://github.com/ram-on/SkyTube)
+- [NewPipe](https://newpipe.schabi.org/) - Lightweight Google-free YouTube client.
+- [SkyTube](https://skytube-app.com/) - An open-source YouTube™ app for Android™.
 
 ## VPN
 
-### [RiseupVPN](https://riseup.net/en/vpn)
-
-*Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**)*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/se.leap.riseupvpn/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=se.leap.riseupvpn&hl=en)
-- [**Source Code**](https://github.com/leapcode/bitmask_android)
-
-### [ProtonVPN](https://protonvpn.com/)
-
-*Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :)*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/ch.protonvpn.android)
-- [**Google Play**](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
-- [**Source Code**](https://github.com/ProtonVPN/android-app)
+- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
+- [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**)
 
 ## Others
 
-### [Termux](https://termux.com/)
-
-*Termux is an Android terminal emulator and Linux environment app.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/com.termux/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.termux)
-- [**Kali NetHunter**](https://store.nethunter.com/en/packages/com.termux/)
-- [**Source Code**](https://github.com/termux/termux-app)
-
-### [Codec Info](https://exodus-privacy.eu.org/en/post/)
-
-*Detailed listing of multimedia codecs on your Android device - with no ads!*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.parseus.codecinfo)
-- [**Source Code**](https://github.com/Parseus/codecinfo)
-
-### [Exodus](https://exodus-privacy.eu.org/en/post/)
-
-*Tracker finder for a particular Android application.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/)
-- [**Source Code**](https://github.com/Exodus-Privacy/exodus-android-app)
+- [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
+- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
+- [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 
 ## Modding
 
 > **NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.**
 
-### [Island](https://island.oasisfeng.com/)
-
-*By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them.*
-
-- **Requires Root**: No (Optional)
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.oasisfeng.island)
-- [**Source Code**](https://github.com/oasisfeng/island)
-
-### [Insular](https://gitlab.com/secure-system/Insular)
-
-*Fork of [Island](#island) with removed proprietary Google Play libraries.*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=org.securesystem.insular)
-- [**Source Code**](https://gitlab.com/secure-system/Insular)
-
-### [Magisk Manager](https://magiskmanager.com/)
-
-*Front-end to [Magisk](https://magisk.me/).*
-
-- **Requires Root**: Yes
-- [**Magisk Manager**](https://magiskmanager.com/downloading-magisk-manager)
-- [**Source Code**](https://github.com/topjohnwu/Magisk)
-
-### [Material Files](https://github.com/zhanghai/MaterialFiles)
-
-*Material Design file manager.*
-
-- **Requires Root**: No (Optional)
-- [**F-Droid**](https://f-droid.org/packages/me.zhanghai.android.files/)
-- [**Google Play**](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
-- [**Source Code**](https://github.com/zhanghai/MaterialFiles)
-
-### [microG](https://microg.org/)
-
-*FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install.*
-
-- **Requires Root**: No **(NOTE: Custom ROM with [Signature Spoofing](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing) support required!)**
-- [**F-Droid repository**](https://microg.org/download.html)
-- [**Source Code**](https://github.com/microg)
-
-### [ScreenCam](https://gitlab.com/vijai/screenrecorder)
-
-*Lightweight and functional screen recorder*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/com.orpheusdroid.screenrecorder/)
-- [**Source Code**](https://gitlab.com/vijai/screenrecorder)
-
-### [Shelter](https://f-droid.org/en/packages/net.typeblog.shelter/)
-
-*Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.*
-
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/net.typeblog.shelter/)
-- [**Source Code**](https://git.angry.im/PeterCxy/Shelter)
-
-### [Smartpack-Kernel Manager](https://smartpack.github.io/spkm/)
-
-*Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features.*
-
-- **Requires Root**: **Yes**
-- [**Download from GitHub**](https://github.com/SmartPack/SmartPack-Kernel-Manager/releases)
-- [**Source Code**](https://github.com/SmartPack/SmartPack-Kernel-Manager/)
+- [Island](https://island.oasisfeng.com/) - By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them ([Source Code](https://github.com/oasisfeng/island)) (Root permission is optional).
+- [Insular](https://gitlab.com/secure-system/Insular) - Fork of [Island](#island) with removed proprietary Google Play libraries.
+- [Magisk Manager](https://github.com/topjohnwu/Magisk) - Front-end to [Magisk](https://magisk.me/) (Require root).
+- [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
+- [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install ([Source Code](https://github.com/microg)).
+- [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
+- [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.
+- [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root).
 
 ## Contributing
 
