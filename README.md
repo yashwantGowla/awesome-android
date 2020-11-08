@@ -118,7 +118,7 @@ Contents
 
 ## VPN
 
-- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) - [**Source Code**](https://github.com/ProtonVPN/android-app)).
+- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
 - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**)
 
 ## Others
@@ -131,11 +131,11 @@ Contents
 
 > **NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.**
 
-- [Island](https://island.oasisfeng.com/) - By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them. - [**Source Code**](https://github.com/oasisfeng/island)
+- [Island](https://island.oasisfeng.com/) - By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them ([Source Code](https://github.com/oasisfeng/island)).
 - [Insular](https://gitlab.com/secure-system/Insular) - Fork of [Island](#island) with removed proprietary Google Play libraries.
 - [Magisk Manager](https://github.com/topjohnwu/Magisk) - Front-end to [Magisk](https://magisk.me/).
 - [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager.
-- [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install. - [**Source Code**](https://github.com/microg).
+- [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install ([Source Code](https://github.com/microg)).
 - [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
 - [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.
 - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features.
