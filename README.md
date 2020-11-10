@@ -1,26 +1,26 @@
-# Awesome Android Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Android Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
-Contents
-=================
-  * [Advertisement blocking](#advertisement-blocking)
-  * [App stores](#app-stores)
-  * [Book readers](#book-readers)
-  * [Browsers](#browsers)
-  * [Cameras](#cameras)
-  * [Communication](#communication)
-  * [Education](#education)
-  * [Media Players](#media-players)
-  * [Music](#music)
-  * [Office](#office)
-  * [Password managers](#password-managers)
-  * [Personalisation](#personalisation)
-  * [Photos](#photos)
-  * [Streaming](#streaming)
-  * [VPN](#vpn)
-  * [Others](#others)
-  * [Modding](#modding)
+## Contents
+
+- [Advertisement blocking](#advertisement-blocking)
+- [App stores](#app-stores)
+- [Book readers](#book-readers)
+- [Browsers](#browsers)
+- [Cameras](#cameras)
+- [Communication](#communication)
+- [Education](#education)
+- [Media Players](#media-players)
+- [Music](#music)
+- [Office](#office)
+- [Password managers](#password-managers)
+- [Personalisation](#personalisation)
+- [Photos](#photos)
+- [Streaming](#streaming)
+- [VPN](#vpn)
+- [Others](#others)
+- [Modding](#modding)
 
 ## Advertisement blocking
 
@@ -33,7 +33,7 @@ Contents
 - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync (Root permission is optional).
 - [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional).
 
-## Book Readers
+## Book readers
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
 - [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
@@ -117,8 +117,8 @@ Contents
 
 ## VPN
 
-- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
-- [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**)
+- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
+- [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
 
 ## Others
 
