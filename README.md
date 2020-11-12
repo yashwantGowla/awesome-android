@@ -1,4 +1,4 @@
-# Awesome Android Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Android Apps
 
 A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
