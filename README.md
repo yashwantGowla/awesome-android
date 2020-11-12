@@ -174,3 +174,9 @@ To see content that is deprecated, lacking documentation or proprietary but stil
 [FossBytes](https://fossbytes.com/best-free-open-source-apps-android/)
 
 [TechWiser](https://techwiser.com/open-source-android-apps/)
+
+### Mirrors
+
+- Codeberg: https://codeberg.org/LinuxCafeFederation/awesome-android
+- GitLab (main): https://gitlab.com/linuxcafefederation/awesome-android
+- GitHub: https://github.com/LinuxCafeFederation/awesome-android
