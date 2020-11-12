@@ -1,7 +1,5 @@
 # Awesome Android Apps
 
-A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
-
 [<img src="logo.png">](https://github.com/LinuxCafeFederation/awesome-android)
 
 <span align="center">
@@ -9,6 +7,8 @@ A curated list of awesome open source Android applications, tutorials and resour
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </span>
+
+A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
 ## Contents
 
