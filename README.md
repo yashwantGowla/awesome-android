@@ -2,6 +2,8 @@
 
 A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
+[<img src="logo.png">](https://github.com/LinuxCafeFederation/awesome-android)
+
 ## Contents
 
 - [Advertisement blocking](#advertisement-blocking)
