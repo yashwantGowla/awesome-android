@@ -101,6 +101,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual vault syncing is required with that version.
 - [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports.
 - [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.
+- [KeePassDX](https://www.keepassdx.com) - FOSS password manager compatible with .kdb and .kdbx files version 1-4 and a majority of KeePass programs.
 
 ## Personalisation
 
