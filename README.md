@@ -49,6 +49,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market.
 - [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.
 - [Privacy Browser](https://www.stoutner.com/privacy-browser/) - Minimal browser focused for privacy.
+- [Tor Browser](https://torproject.org) - Tor browser for Android, based on FireFox.
 
 ## Cameras
 
@@ -121,6 +122,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
 - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
+- [Mullvad](https://mullvad.net/en/) -  Mullvad was founded in 2009 purely with the ambition of upholding the universal right to privacy – for you, for us, for everyone. And not only that, we want to make Internet censorship and mass surveillance ineffective.
 
 ## Others
 
