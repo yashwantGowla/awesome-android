@@ -16,6 +16,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Media Players](#media-players)
 - [Music](#music)
 - [Office](#office)
+- [Productivity](#productivity)
 - [Password managers](#password-managers)
 - [Personalisation](#personalisation)
 - [Photos](#photos)
@@ -40,6 +41,8 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
 - [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
+- [Librera PRO](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) - Librera Reader is a highly customizable and feature-rich application
+for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, etc. formats. Note that Playstore version can access non-free services like Dropbox, Google Drive and Onedrive while the one mentioned here(F-droid version) can't.
 
 ## Browsers
 
@@ -95,6 +98,12 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Office
 
 - [Collabora Office](https://gerrit.libreoffice.org/plugins/gitiles/online) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
+
+## Productivity
+
+- [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
+- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
+- [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 
 ## Password managers
 
