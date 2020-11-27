@@ -8,6 +8,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [Advertisement blocking](#advertisement-blocking)
 - [App stores](#app-stores)
+- [Basic Utilities](#basic-utilities)
 - [Book readers](#book-readers)
 - [Browsers](#browsers)
 - [Cameras](#cameras)
@@ -24,11 +25,12 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Streaming](#streaming)
 - [VPN](#vpn)
 - [Others](#others)
+- [Tools](#tools)
 - [Modding](#modding)
 
 ## Advertisement blocking
 
-- [AdAway](https://adaway.org/) - Ad blocker for Android using the hosts file (Require root).
+- [AdAway](https://adaway.org/) - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
 - [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API.
 - [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) - Ad blocker for Android using a VPN, supports hosts files.
 
@@ -36,6 +38,17 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync (Root permission is optional).
 - [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional).
+
+## Basic Utilities
+
+- [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android.
+- [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
+- [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) - Be notified of the important moments in your life.
+- [Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock/) - A combination of a clock, alarm, stopwatch and timer.
+- [Simple Contacts](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) - A premium app for contact management with no ads, supports groups and favorites.
+- [Simple Dialer](https://f-droid.org/en/packages/com.simplemobiletools.dialer/) - A handy phone call manager with phonebook, number blocking and multi-SIM support.
+- [Simple Flashlight](https://f-droid.org/en/packages/com.simplemobiletools.flashlight/) - A simple flashlight without ads.
+- [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access.
 
 ## Book readers
 
@@ -58,6 +71,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 ## Cameras
 
 - [Open Camera](https://opencamera.sourceforge.io/) - Camera app with DSLR features.
+- [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/) - A camera with flash, zoom and no ads.
 
 ## Communication
 
@@ -73,6 +87,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
 - [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
+- [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [Tusky](https://tusky.app/) - Mastodon client for Android.
 - [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
@@ -81,6 +96,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Education
 
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android) - Anki flashcards on Android.
 - [phyphox](https://phyphox.org/) - Sensors and data analyser.
 
 ## Games
@@ -101,6 +117,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Odyssey Music Player](https://github.com/gateship-one/odyssey) - Lightweight music player.
 - [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android.
 - [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android.
+- [Simple Music PLayer](https://f-droid.org/en/packages/com.simplemobiletools.musicplayer/) - A clean music player with a customizable widget.
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer) - Local music player for Android.
 - [VLC](https://www.videolan.org/) - Minimal media player.
 
@@ -117,6 +134,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Personalisation
 
+- [App Launcher](https://f-droid.org/en/packages/com.simplemobiletools.applauncher/) - A simple holder for your favourite app launchers.
 - [Lawnchair 2](https://lawnchair.app/) - Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3).
 - [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
 - [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).
@@ -125,12 +143,14 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 ## Photos
 
 - [Phimp.me](https://github.com/fossasia/phimpme-android) - Photo Imaging and Picture Editor.
+- [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/) - A premium app for managing and editing your photos, videos, GIFs without ads.
 
 ## Productivity
 
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
-- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
+- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
+- [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
 
 ## Streaming
 
@@ -147,8 +167,14 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
-- [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 - [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
+- [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
+
+## Tools
+
+- [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
+- [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
+- [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories.
 
 ## Modding
 
@@ -157,10 +183,8 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Island](https://island.oasisfeng.com/) - By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them ([Source Code](https://github.com/oasisfeng/island)) (Root permission is optional).
 - [Insular](https://gitlab.com/secure-system/Insular) - Fork of [Island](#island) with removed proprietary Google Play libraries.
 - [Magisk Manager](https://github.com/topjohnwu/Magisk) - Front-end to [Magisk](https://magisk.me/) (Require root).
-- [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
 - [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install ([Source Code](https://github.com/microg)).
-- [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
-- [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.
+- [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into (It has a few compatibility issues with Android 10+ for now but you can still use it if you like).
 - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root).
 - [Linux Deploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android (Requires root).
 
