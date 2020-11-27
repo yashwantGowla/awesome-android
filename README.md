@@ -13,13 +13,14 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Cameras](#cameras)
 - [Communication](#communication)
 - [Education](#education)
+- [Games](#games)
 - [Media Players](#media-players)
 - [Music](#music)
 - [Office](#office)
-- [Productivity](#productivity)
 - [Password managers](#password-managers)
 - [Personalisation](#personalisation)
 - [Photos](#photos)
+- [Productivity](#productivity)
 - [Streaming](#streaming)
 - [VPN](#vpn)
 - [Others](#others)
@@ -82,6 +83,12 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [phyphox](https://phyphox.org/) - Sensors and data analyser.
 
+## Games
+
+- [Mindustry](https://anuke.itch.io/mindustry) - Mindustry is a hybrid tower-defense sandbox factory game.
+- [Minetest](https://www.minetest.net/) - An open source voxel game engine. Basically, a FOSS alternative of Minecraft.
+- [UnCiv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
+
 ## Media Players
 
 - [mpv](https://mpv.io/) - Minimal media player.
@@ -101,12 +108,6 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [Collabora Office](https://gerrit.libreoffice.org/plugins/gitiles/online) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
 
-## Productivity
-
-- [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
-- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
-- [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
-
 ## Password managers
 
 - [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual vault syncing is required with that version.
@@ -124,6 +125,12 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 ## Photos
 
 - [Phimp.me](https://github.com/fossasia/phimpme-android) - Photo Imaging and Picture Editor.
+
+## Productivity
+
+- [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
+- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
+- [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 
 ## Streaming
 
