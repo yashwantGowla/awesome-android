@@ -155,6 +155,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
 - [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.
 - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root).
+- [Linux Deploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android (Requires root).
 
 ## Contributing
 
