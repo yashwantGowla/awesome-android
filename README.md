@@ -139,6 +139,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [App Launcher](https://f-droid.org/en/packages/com.simplemobiletools.applauncher/) - A simple holder for your favourite app launchers.
 - [Lawnchair 2](https://lawnchair.app/) - Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3).
+- [raphtlw/Lawnchair](https://github.com/raphtlw/Lawnchair) - Minor fork of Lawnchair V2, with minor bug fixes.
 - [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
 - [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).
 - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) - Launcher that aims to be a powerful and community driven project.
