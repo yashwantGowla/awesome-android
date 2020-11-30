@@ -150,6 +150,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Productivity
 
+- [Acode](https://acode.foxdebug.com/) - A powerful code editor for Android. 
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
