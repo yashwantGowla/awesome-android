@@ -1,4 +1,4 @@
-# Awesome Android Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Android Apps
 
 A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
@@ -229,5 +229,5 @@ To see content that is deprecated, lacking documentation or proprietary but stil
 ### Mirrors
 
 - Codeberg: https://codeberg.org/LinuxCafeFederation/awesome-android
-- GitLab (main): https://gitlab.com/linuxcafefederation/awesome-android
+- GitLab: https://gitlab.com/linuxcafefederation/awesome-android
 - GitHub: https://github.com/LinuxCafeFederation/awesome-android
