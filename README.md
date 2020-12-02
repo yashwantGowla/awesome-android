@@ -54,10 +54,11 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Book readers
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
-- [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
 - [Librera PRO](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) - Librera Reader is a highly customizable and feature-rich application
 for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, etc. formats. Note that Playstore version can access non-free services like Dropbox, Google Drive and Onedrive while the one mentioned here(F-droid version) can't.
+- [Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader for Android.
+- [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
 
 ## Browsers
 
@@ -153,6 +154,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Photos
 
+- [DNG Processor](https://github.com/amirzaidi/DNGProcessor) - Bring out the best in your phone's camera. It waits for new RAW images captured using a supported camera app, and then processes them in the background. Works well with Open Camera and usually gives better results than Google Camera ports.
 - [Phimp.me](https://github.com/fossasia/phimpme-android) - Photo Imaging and Picture Editor.
 - [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/) - A premium app for managing and editing your photos, videos, GIFs without ads.
 
