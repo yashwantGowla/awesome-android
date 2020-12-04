@@ -80,6 +80,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
 - [Barinsta](https://github.com/austinhuang0131/barinsta) - Open-source alternative Instagram client on Android.
+- [Briar](https://code.briarproject.org/briar/briar) - Secure P2P Messaging, Anywhere.
 - [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
 - [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
 - [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
@@ -112,6 +113,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Mindustry](https://anuke.itch.io/mindustry) - Mindustry is a hybrid tower-defense sandbox factory game.
 - [Minetest](https://www.minetest.net/) - An open source voxel game engine. Basically, a FOSS alternative of Minecraft.
 - [UnCiv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
+- [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia) - Solve ice puzzles and defeat enemies in an RPG world.
 
 ## Media Players
 
