@@ -1,6 +1,6 @@
 # Awesome Android Apps
 
-A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
+A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-\* projects.
 
 [<img src="logo.png">](https://github.com/LinuxCafeFederation/awesome-android)
 
@@ -55,7 +55,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
 - [Librera PRO](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) - Librera Reader is a highly customizable and feature-rich application
-for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, etc. formats. Note that Playstore version can access non-free services like Dropbox, Google Drive and Onedrive while the one mentioned here(F-droid version) can't.
+  for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, etc. formats. Note that Playstore version can access non-free services like Dropbox, Google Drive and Onedrive while the one mentioned here(F-droid version) can't.
 - [Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader for Android.
 - [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
@@ -91,6 +91,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale.
 - [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other.
+- [Langis](https://langis.cloudfrancois.fr/) - A degoogled version of Signal Messenger app. The source of patches used to build this degoogled version is available [here](https://git.legeox.net/capslock/signal-gcm-less).
 - [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub).
 - [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use.
 - [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
@@ -154,7 +155,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
 - [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).
 - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) - Launcher that aims to be a powerful and community driven project.
-- [Taskbar](https://github.com/farmerbb/Taskbar) -  A PC-style Launcher for Android.
+- [Taskbar](https://github.com/farmerbb/Taskbar) - A PC-style Launcher for Android.
 
 ## Photos
 
@@ -164,11 +165,12 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Productivity
 
-- [Acode](https://acode.foxdebug.com/) - A powerful code editor for Android. 
+- [Acode](https://acode.foxdebug.com/) - A powerful code editor for Android.
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
+- [Tasks](https://tasks.org/) - A To-Do list app based on Astrid To-Do list app.
 
 ## Streaming
 
@@ -180,7 +182,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
 - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
-- [Mullvad](https://mullvad.net/en/) -  Mullvad was founded in 2009 purely with the ambition of upholding the universal right to privacy – for you, for us, for everyone. And not only that, we want to make Internet censorship and mass surveillance ineffective.
+- [Mullvad](https://mullvad.net/en/) - Mullvad was founded in 2009 purely with the ambition of upholding the universal right to privacy – for you, for us, for everyone. And not only that, we want to make Internet censorship and mass surveillance ineffective.
 
 ## Others
 
@@ -217,7 +219,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Magisk Manager](https://github.com/topjohnwu/Magisk) - Front-end to [Magisk](https://magisk.me/) (Require root).
 - [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install ([Source Code](https://github.com/microg)).
 - [Nethunter-App](http://store.nethunter.com/en/packages/com.offsec.nethunter/) - This is the next-gen Nethunter app, which acts as an installer, updater,
-and interface for the Kali Linux chroot. Please note that it requires [Nethunter Terminal](http://store.nethunter.com/en/packages/com.offsec.nhterm/) to work.
+  and interface for the Kali Linux chroot. Please note that it requires [Nethunter Terminal](http://store.nethunter.com/en/packages/com.offsec.nhterm/) to work.
 - [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into (It has a few compatibility issues with Android 10+ for now but you can still use it if you like).
 - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root).
 - [VirtualXposed](https://f-droid.org/en/packages/io.va.exposed/) - Use Xposed without root, unlock the bootloader or modify system image (Supports Android 5.0~9.0).
