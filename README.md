@@ -246,7 +246,7 @@ To see content that is deprecated, lacking documentation or proprietary but stil
 
 [unicodedeveloper / awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps#android)
 
-[samedamci / FOSS_Stuff](https://git.samedamci.me/samedamci/FOSS_Stuff)
+[samedamci / FOSS_Stuff](https://github.com/samedamci/FOSS_Stuff)
 
 ### External sources
 
