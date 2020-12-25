@@ -113,6 +113,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Games
 
 - [Andor's Trail](https://f-droid.org/en/packages/com.gpl.rpg.AndorsTrail/) - Quest-driven Roguelike fantasy dungeon crawler RPG with a powerful story.
+- [Apple Flinger](https://f-droid.org/en/packages/com.gitlab.ardash.appleflinger.android/) - Use a slingshot to shoot with apples.
 - [Mindustry](https://anuke.itch.io/mindustry) - Mindustry is a hybrid tower-defense sandbox factory game.
 - [Minetest](https://www.minetest.net/) - An open source voxel game engine. Basically, a FOSS alternative of Minecraft.
 - [UnCiv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
@@ -144,12 +145,14 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
 - [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual vault syncing is required with that version.
 - [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports.
-- [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.
 - [KeePassDX](https://www.keepassdx.com) - FOSS password manager compatible with .kdb and .kdbx files version 1-4 and a majority of KeePass programs.
+- [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.
+- [Password Store](https://f-droid.org/en/packages/dev.msfjarvis.aps/) - Simple password manager that is compatible with [pass](https://www.passwordstore.org/).
 
 ## Personalisation
 
 - [App Launcher](https://f-droid.org/en/packages/com.simplemobiletools.applauncher/) - A simple holder for your favourite app launchers.
+- [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/) - Blazingly fast launcher focused on search.
 - [Lawnchair 2](https://lawnchair.app/) - Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3).
 - [raphtlw/Lawnchair](https://github.com/raphtlw/Lawnchair) - Minor fork of Lawnchair V2, with minor bug fixes.
 - [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
@@ -180,9 +183,10 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## VPN
 
+- [Mullvad](https://mullvad.net/en/) - Mullvad was founded in 2009 purely with the ambition of upholding the universal right to privacy – for you, for us, for everyone. And not only that, we want to make Internet censorship and mass surveillance ineffective.
+- [OpenVPN for Android](https://f-droid.org/en/packages/de.blinkt.openvpn/) - OpenVPN without root.
 - [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
 - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
-- [Mullvad](https://mullvad.net/en/) - Mullvad was founded in 2009 purely with the ambition of upholding the universal right to privacy – for you, for us, for everyone. And not only that, we want to make Internet censorship and mass surveillance ineffective.
 
 ## Others
 
