@@ -79,6 +79,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Privacy Browser](https://www.stoutner.com/privacy-browser/) - Minimal browser focused for privacy.
 - [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A Secure, Free and Open Source WebView-based web browser for Android. A fork of Lightning Browser.
 - [Tor Browser](https://torproject.org) - Tor browser for Android, based on FireFox.
+- [Ungoogled Chromium Android](https://uc.droidware.info/) - It is the Android version of Ungoogle-Chromium. A lightweight approach to removing Google web service dependency.
 
 ## Cameras
 
