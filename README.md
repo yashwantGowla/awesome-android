@@ -50,6 +50,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Basic Utilities
 
+- [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/) - It is a material designed open source calendar.
 - [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android.
 - [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
 - [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) - Be notified of the important moments in your life.
@@ -79,6 +80,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Privacy Browser](https://www.stoutner.com/privacy-browser/) - Minimal browser focused for privacy.
 - [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A Secure, Free and Open Source WebView-based web browser for Android. A fork of Lightning Browser.
 - [Tor Browser](https://torproject.org) - Tor browser for Android, based on FireFox.
+- [Ungoogled Chromium Android](https://uc.droidware.info/) - It is the Android version of Ungoogle-Chromium. A lightweight approach to removing Google web service dependency.
 
 ## Cameras
 
@@ -191,7 +193,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Productivity
 
-- [Acode](https://acode.foxdebug.com/) - A powerful code editor for Android.
+- [Bodhi Timer](https://github.com/yuttadhammo/BodhiTimer) - It is an elegant, minimalist countdown timer.
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
@@ -226,6 +228,8 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open-source GitHub Android client app, faster and concise.
 
 ### Other
+
+- [Acode](https://acode.foxdebug.com/) - A powerful code editor for Android.
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
 - [CPU Info](https://github.com/kamgurgul/cpu-info) - Provides information about device hardware and software.
 - [EtchDroid](https://f-droid.org/en/packages/eu.depau.etchdroid/) - Helps you with writing ISO images and creating bootable USB drives, no root required.
@@ -235,6 +239,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Tools
 
 - [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/) - Control network traffic (Requires root).
+- [Calculator++](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/) - Scientific calculator with sleek interface and powerful capabilities.
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - A Free and Open Source software download manager.
 - [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
 - [MoeList](https://github.com/axiel7/MoeList) - Unofficial MAL (MyAnimeList) client. With this app you can easily track, rate, organize and discover new Anime & Manga.
