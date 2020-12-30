@@ -50,6 +50,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Basic Utilities
 
+- [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/) - It is a material designed open source calendar.
 - [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android.
 - [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
 - [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) - Be notified of the important moments in your life.
