@@ -158,7 +158,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Office
 
-- [Collabora Office](https://gerrit.libreoffice.org/plugins/gitiles/online) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
+- [Collabora Office](https://www.collaboraoffice.com/release-news/collabora-office-android-beta/) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
 
 ## Password managers
 
