@@ -63,11 +63,12 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Book readers
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
+- [Hendroid](https://f-droid.org/en/packages/org.nonononoki.hendroid/) - Doujinshi & Hentai-Manga archiving and viewing app (features 18+ content).
 - [Librera PRO](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) - Librera Reader is a highly customizable and feature-rich application
   for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, etc. formats. Note that Playstore version can access non-free services like Dropbox, Google Drive and Onedrive while the one mentioned here(F-droid version) can't.
-- [Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader for Android.
+- [Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader for Android (features 18+ content).
 - [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader (features 18+ content depending upon the extensions you use).
 
 ## Browsers
 
@@ -153,6 +154,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android.
 - [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android.
 - [Simple Music PLayer](https://f-droid.org/en/packages/com.simplemobiletools.musicplayer/) - A clean music player with a customizable widget.
+- [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - It allows you to listen to radio streams.
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer) - Local music player for Android.
 - [VLC](https://www.videolan.org/) - Minimal media player.
 
@@ -196,6 +198,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Bodhi Timer](https://github.com/yuttadhammo/BodhiTimer) - It is an elegant, minimalist countdown timer.
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
+- [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/) - Track your habits and long-term goals.
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
 - [Tasks](https://tasks.org/) - A To-Do list app based on Astrid To-Do list app.
@@ -235,6 +238,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [EtchDroid](https://f-droid.org/en/packages/eu.depau.etchdroid/) - Helps you with writing ISO images and creating bootable USB drives, no root required.
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
 - [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
+- [Trail Sense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/) - Use your phone's sensors to assist with wilderness treks or survival situations.
 
 ## Tools
 
