@@ -276,6 +276,14 @@ Want to contribute? Feel free to fork the project and send merge requests when y
 
 I will check it out and will decide if I should accept it or not. If you do not want to fork the project, consider [opening an issue](https://github.com/TheEvilSkeleton/free-and-open-source-android-apps/issues) and suggest what application you want me to install.
 
+## Linux to Linux Café
+
+[Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
+[Linux Café Discord](https://discord.gg/YY4zrNR)
+[Linux Café Matrix](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat)
+[Linux Café Telegram](https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQ)
+[Linux Café Reddit](https://reddit.com/r/linuxcafe)
+
 ## Footnotes
 
 ### Deprecated contents
