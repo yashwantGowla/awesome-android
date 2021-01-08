@@ -278,11 +278,11 @@ I will check it out and will decide if I should accept it or not. If you do not 
 
 ## Linux to Linux Café
 
-[Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
-[Linux Café Discord](https://discord.gg/YY4zrNR)
-[Linux Café Matrix](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat)
-[Linux Café Telegram](https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQ)
-[Linux Café Reddit](https://reddit.com/r/linuxcafe)
+- [Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
+- [Linux Café Discord](https://discord.gg/YY4zrNR)
+- [Linux Café Matrix](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat)
+- [Linux Café Telegram](https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQ)
+- [Linux Café Reddit](https://reddit.com/r/linuxcafe)
 
 ## Footnotes
 
