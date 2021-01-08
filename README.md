@@ -225,6 +225,11 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
 - [StreetComplete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/) - OpenStreetMap surveyor app. This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
 
+### Money Management
+
+- [Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
+- [Firefly III Mobile](https://github.com/emansih/FireflyMobile) - Mobile Application for Firefly III written in Kotlin
+
 ### Git based clients
 
 - [GitNex](https://gitnex.com/) - Gitea client for Android.
