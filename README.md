@@ -92,21 +92,21 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ### Real-Time Communication
 
-- [Jami](https://jami.net/) - P2P messaging, encrypted, no central servers, backed by [GNU](https://www.gnu.org/)
-- [Session](https://getsession.org/) - Open-source, public-key-based secure messaging application which uses a set of decentralised storage servers and an onion routing protocol to send end-to-end encrypted messages with minimal exposure of user metadata.
-- [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
-- [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
-- [Langis](https://langis.cloudfrancois.fr/) - A degoogled version of Signal Messenger app. The source of patches used to build this degoogled version is available [here](https://git.legeox.net/capslock/signal-gcm-less).
-- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram is a messaging app with a focus on speed and security. It is simple and free. Note that this FOSS version isn't official, official version can be found on Playstore but that version uses non-free dependencies. Also, the server of Telegram is closed-source [for now](https://telegram.org/faq#q-why-not-open-source-everything).
-- [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub).
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale.
-- [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
-- [Syphon](https://f-droid.org/en/packages/org.tether.tether/) - A privacy centric matrix client.
-- [FluffyChat](https://gitlab.com/ChristianPauly/fluffychat-flutter) - A minimalist matrix client for Android.
-- [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
-- [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
 - [Briar](https://code.briarproject.org/briar/briar) - Secure P2P Messaging, Anywhere.
+- [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
 - [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
+- [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
+- [FluffyChat](https://gitlab.com/ChristianPauly/fluffychat-flutter) - A minimalist matrix client for Android.
+- [Jami](https://jami.net/) - P2P messaging, encrypted, no central servers, backed by [GNU](https://www.gnu.org/)
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale.
+- [Langis](https://langis.cloudfrancois.fr/) - A degoogled version of Signal Messenger app. The source of patches used to build this degoogled version is available [here](https://git.legeox.net/capslock/signal-gcm-less).
+- [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub).
+- [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
+- [Session](https://getsession.org/) - Open-source, public-key-based secure messaging application which uses a set of decentralised storage servers and an onion routing protocol to send end-to-end encrypted messages with minimal exposure of user metadata.
+- [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
+- [Syphon](https://f-droid.org/en/packages/org.tether.tether/) - A privacy centric matrix client.
+- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram is a messaging app with a focus on speed and security. It is simple and free. Note that this FOSS version isn't official, official version can be found on Playstore but that version uses non-free dependencies. Also, the server of Telegram is closed-source [for now](https://telegram.org/faq#q-why-not-open-source-everything).
+- [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
 
 ### Social Media
 
