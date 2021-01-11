@@ -78,7 +78,6 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) - Privacy-oriented browser with tracking protection and content blocking.
 - [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market.
 - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser is a web browser for Android, based on Mozilla's Fenix version of Firefox, GeckoView and Mozilla Android Components with more features, and the removal of proprietary blobs.
-- [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.
 - [Privacy Browser](https://www.stoutner.com/privacy-browser/) - Minimal browser focused for privacy.
 - [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A Secure, Free and Open Source WebView-based web browser for Android. A fork of Lightning Browser.
 - [Tor Browser](https://torproject.org) - Tor browser for Android, based on FireFox.
@@ -93,6 +92,8 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ### Real-Time Communication
 
+- [Jami](https://jami.net/) - P2P messaging, encrypted, no central servers, backed by [GNU](https://www.gnu.org/)
+- [Session](https://getsession.org/) - Open-source, public-key-based secure messaging application which uses a set of decentralised storage servers and an onion routing protocol to send end-to-end encrypted messages with minimal exposure of user metadata.
 - [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
 - [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Langis](https://langis.cloudfrancois.fr/) - A degoogled version of Signal Messenger app. The source of patches used to build this degoogled version is available [here](https://git.legeox.net/capslock/signal-gcm-less).
