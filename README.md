@@ -175,6 +175,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 ### 2FA and TOTP
 
 - [Aegis](https://github.com/beemdevelopment/Aegis) - Free, secure and open source 2FA app for Android.
+- [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
 - [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - Free and open source 2FA app with support for Wear OS.
 
 ## Personalisation
