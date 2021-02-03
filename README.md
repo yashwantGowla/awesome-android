@@ -51,6 +51,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Basic Utilities
 
+- [Binary Eye](https://github.com/markusfisch/BinaryEye) - Barcode and QR code scanner without ads
 - [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/) - It is a material designed open source calendar.
 - [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android.
 - [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
@@ -186,6 +187,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
 - [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).
 - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) - Launcher that aims to be a powerful and community driven project.
+- [Sentien Launcher](https://f-droid.org/en/packages/com.sentienhq.launcher/) - A quick, smart, minimalist Launcher, designed with your digital well-being in mind. 
 - [Taskbar](https://github.com/farmerbb/Taskbar) - A PC-style Launcher for Android.
 
 ## Photos
@@ -193,11 +195,12 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [DNG Processor](https://github.com/amirzaidi/DNGProcessor) - Bring out the best in your phone's camera. It waits for new RAW images captured using a supported camera app, and then processes them in the background. Works well with Open Camera and usually gives better results than Google Camera ports.
 - [Phimp.me](https://github.com/fossasia/phimpme-android) - Photo Imaging and Picture Editor.
 - [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/) - A premium app for managing and editing your photos, videos, GIFs without ads.
-- [Photok](https://github.com/leonlatsch/Photok) - Encrypted Photo Safe for Andorid.
+- [Photok](https://github.com/leonlatsch/Photok) - Encrypted Photo Safe for Android.
 
 ## Productivity
 
 - [Bodhi Timer](https://github.com/yuttadhammo/BodhiTimer) - It is an elegant, minimalist countdown timer.
+- [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) - A diary application optimized for user experience.
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 - [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/) - Track your habits and long-term goals.
