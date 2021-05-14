@@ -10,6 +10,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [App stores](#app-stores)
 - [Basic Utilities](#basic-utilities)
 - [Book readers](#book-readers)
+- [Torrenting](#torrenting)
 - [Browsers](#browsers)
 - [Cameras](#cameras)
 - [Communication](#communication)
@@ -42,6 +43,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [AdAway](https://adaway.org/) - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
 - [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API.
 - [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) - Ad blocker for Android using a VPN, supports hosts files.
+- [DNS66](https://jak-linux.org/projects/dns66/) - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
 
 ## App stores
 
@@ -62,6 +64,13 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Simple Dialer](https://f-droid.org/en/packages/com.simplemobiletools.dialer/) - A handy phone call manager with phonebook, number blocking and multi-SIM support.
 - [Simple Flashlight](https://f-droid.org/en/packages/com.simplemobiletools.flashlight/) - A simple flashlight without ads.
 - [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access.
+- [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
+- [ConverterNOW](https://f-droid.org/packages/com.ferrarid.converterpro/) - Converter NOW is an effective unit and currencies converter.
+
+## Torrenting
+- [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) - Copylefted libre full-featured torrent client for Android.
+- [Frostwire](https://github.com/frostwire/frostwire/tree/master/android) - A file sharing client, media player and simple file manager for your Android devices.
+
 
 ## Book readers
 
@@ -121,14 +130,17 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
 - [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
+- [RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android. 
 - [Barinsta](https://github.com/austinhuang0131/barinsta) - Open-source alternative Instagram client on Android.
 - [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
+- [Fritter](https://fritter.cc/) - A free, open-source Twitter client for Android and iOS 
 
 ### Keyboards
 
 - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
 - [FlorisBoard](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state.
 - [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use.
+- [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - This keyboard is created for those who only need a keyboard and nothing more.
 
 ### Other
 
@@ -149,6 +161,8 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Minetest](https://www.minetest.net/) - An open source voxel game engine. Basically, a FOSS alternative of Minecraft.
 - [UnCiv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
 - [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia) - Solve ice puzzles and defeat enemies in an RPG world.
+- [Droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish is a feature-rich graphical chess user interface, combined with the very strong Stockfish chess engine.
+- [Lichobile](https://lichess.org/mobile) - Lichess mobile is the lichess.org official application.
 
 ## Media Players
 
@@ -199,6 +213,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Sentien Launcher](https://f-droid.org/en/packages/com.sentienhq.launcher/) - A quick, smart, minimalist Launcher, designed with your digital well-being in mind. 
 - [Taskbar](https://github.com/farmerbb/Taskbar) - A PC-style Launcher for Android.
 
+
 ## Photos
 
 - [DNG Processor](https://github.com/amirzaidi/DNGProcessor) - Bring out the best in your phone's camera. It waits for new RAW images captured using a supported camera app, and then processes them in the background. Works well with Open Camera and usually gives better results than Google Camera ports.
@@ -229,6 +244,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [Mullvad](https://mullvad.net/en/) - Mullvad was founded in 2009 purely with the ambition of upholding the universal right to privacy – for you, for us, for everyone. And not only that, we want to make Internet censorship and mass surveillance ineffective.
 - [OpenVPN for Android](https://f-droid.org/en/packages/de.blinkt.openvpn/) - OpenVPN without root.
+- [WireGuard](https://git.zx2c4.com/wireguard-android/about/) -  an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 - [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
 - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
 
