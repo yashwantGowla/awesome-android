@@ -74,6 +74,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Book readers
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
+- [Coolreader](https://github.com/buggins/coolreader) - cross platform open source e-book reader.
 - [Hendroid](https://f-droid.org/en/packages/org.nonononoki.hendroid/) - Doujinshi & Hentai-Manga archiving and viewing app (features 18+ content).
 - [Librera PRO](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) - Librera Reader is a highly customizable and feature-rich application
   for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, etc. formats. Note that Playstore version can access non-free services like Dropbox, Google Drive and Onedrive while the one mentioned here(F-droid version) can't.
@@ -138,6 +139,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
 - [FlorisBoard](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state.
+- [HackersKeyboard](https://github.com/klausw/hackerskeyboard) - This keyboard is especially useful if you use ConnectBot for SSH access. It provides working Tab/Ctrl/Esc keys, and arrow keys.
 - [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use.
 - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - This keyboard is created for those who only need a keyboard and nothing more.
 
@@ -211,6 +213,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) - Launcher that aims to be a powerful and community driven project.
 - [Sentien Launcher](https://f-droid.org/en/packages/com.sentienhq.launcher/) - A quick, smart, minimalist Launcher, designed with your digital well-being in mind. 
 - [Taskbar](https://github.com/farmerbb/Taskbar) - A PC-style Launcher for Android.
+- [Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android 
 
 
 ## Photos
