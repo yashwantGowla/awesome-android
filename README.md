@@ -93,6 +93,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 ### E-mail 
 
 - [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android 
+- [K-9 Mail](https://k9mail.app/) - K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email.
 
 ### Real-Time Communication
 
