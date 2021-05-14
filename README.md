@@ -13,6 +13,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Browsers](#browsers)
 - [Cameras](#cameras)
 - [Communication](#communication)
+  * [E-mail](#E-mail)
   * [Real-Time Communication](#real-time-communication)
   * [Social Media](#social-media)
   * [Other](#other)
@@ -89,6 +90,10 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Communication
 
+### E-mail 
+
+- [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android 
+
 ### Real-Time Communication
 
 - [Briar](https://code.briarproject.org/briar/briar) - Secure P2P Messaging, Anywhere.
@@ -117,7 +122,9 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [Barinsta](https://github.com/austinhuang0131/barinsta) - Open-source alternative Instagram client on Android.
 - [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
+
 ### Keyboards
+
 - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
 - [FlorisBoard](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state.
 - [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use.
