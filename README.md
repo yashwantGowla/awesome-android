@@ -65,7 +65,6 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Simple Flashlight](https://f-droid.org/en/packages/com.simplemobiletools.flashlight/) - A simple flashlight without ads.
 - [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access.
 - [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
-- [ConverterNOW](https://f-droid.org/packages/com.ferrarid.converterpro/) - Converter NOW is an effective unit and currencies converter.
 
 ## Torrenting
 - [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) - Copylefted libre full-featured torrent client for Android.
