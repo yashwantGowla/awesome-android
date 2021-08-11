@@ -44,6 +44,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API.
 - [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) - Ad blocker for Android using a VPN, supports hosts files.
 - [DNS66](https://jak-linux.org/projects/dns66/) - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
+[RethinkDNS + Firewall](https://github.com/celzero/rethink-app) - Adblocker, firewall, and anti-censorship tool for Android using the VPN API.
 
 ## App stores
 
@@ -173,6 +174,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Music
 
+- [BlackHole](https://sangwan5688.github.io/BlackHole/) - Music Streaming and Downloading App.
 - [Metro](https://github.com/MuntashirAkon/Metro) - Fork of [Retro Music Player](#retro-music-player) with removed proprietary Google Play libraries.
 - [Music](https://github.com/MaxFour/Music-Player) - Lightweight and Material Music Player.
 - [Music Player GO](https://github.com/enricocid/Music-Player-GO) - A simple yet fully-featured local music player aiming at simplicity and performance.
@@ -233,6 +235,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 - [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/) - Track your habits and long-term goals.
+- [neutriNote](https://github.com/appml/neutrinote) - neutriNote - Markdown + Math in Just 3 MB! 
 - [Noteless](https://github.com/redsolver/noteless) - A markdown note-taking app for mobile devices.
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
