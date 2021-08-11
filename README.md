@@ -122,6 +122,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Snikket](https://snikket.org/) - Easy-to-use federated messaging+calls app based on open standards (XMPP) and open-source self-hostable server. No phone number required.
 - [Syphon](https://f-droid.org/en/packages/org.tether.tether/) - A privacy centric matrix client.
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram is a messaging app with a focus on speed and security. It is simple and free. Note that this FOSS version isn't official, official version can be found on Playstore but that version uses non-free dependencies. Also, the server of Telegram is closed-source [for now](https://telegram.org/faq#q-why-not-open-source-everything).
+- [Threema](https://threema.ch/en/) - The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source.
 - [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
 
 ### Social Media
@@ -194,7 +195,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ### General 
 
-- [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual vault syncing is required with that version.
+- [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the [Bitwarden repository](https://mobileapp.bitwarden.com/fdroid/). Manual vault syncing is required with that version.
 - [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports.
 - [KeePassDX](https://www.keepassdx.com) - FOSS password manager compatible with .kdb and .kdbx files version 1-4 and a majority of KeePass programs.
 - [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.
