@@ -133,7 +133,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android. 
-- [Barinsta](https://github.com/austinhuang0131/barinsta) - Open-source alternative Instagram client on Android.
+- [Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/) - Open-source alternative Instagram client on Android. Severly lacking now since Facebook took legal action against app, hopefully will be resolved soon.
 - [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
 - [Fritter](https://fritter.cc/) - A free, open-source Twitter client for Android and iOS 
 
