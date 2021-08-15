@@ -165,6 +165,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Apple Flinger](https://f-droid.org/en/packages/com.gitlab.ardash.appleflinger.android/) - Use a slingshot to shoot with apples.
 - [Mindustry](https://anuke.itch.io/mindustry) - Mindustry is a hybrid tower-defense sandbox factory game.
 - [Minetest](https://www.minetest.net/) - An open source voxel game engine. Basically, a FOSS alternative of Minecraft.
+- [Privacy Friendly 2048] (https://github.com/SecUSo/privacy-friendly-2048) - An open source 2048 implementation
 - [UnCiv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
 - [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia) - Solve ice puzzles and defeat enemies in an RPG world.
 - [Droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish is a feature-rich graphical chess user interface, combined with the very strong Stockfish chess engine.
@@ -234,6 +235,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Productivity
 
 - [Bodhi Timer](https://github.com/yuttadhammo/BodhiTimer) - It is an elegant, minimalist countdown timer.
+- [Catima] (https://github.com/TheLastProject/Catima) - A loyalty card / gift card / ticket app.
 - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) - A diary application optimized for user experience.
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
@@ -241,6 +243,8 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [neutriNote](https://github.com/appml/neutrinote) - neutriNote - Markdown + Math in Just 3 MB! 
 - [Noteless](https://github.com/redsolver/noteless) - A markdown note-taking app for mobile devices.
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
+- [Privacy Friendly Pausing Healthily] (https://github.com/SecUSo/privacy-friendly-2048) - An open source work break timer with simple exercises to perform
+- [Privacy Friendly QR Scanner] (https://github.com/SecUSo/privacy-friendly-qr-scanner) - A QR / bar code scanner
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
 - [Tasks](https://tasks.org/) - A To-Do list app based on Astrid To-Do list app.
 
