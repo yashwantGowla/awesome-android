@@ -14,11 +14,12 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Browsers](#browsers)
 - [Cameras](#cameras)
 - [Communication](#communication)
-  * [E-mail](#E-mail)
+  * [E-mail](#e-mail)
   * [Real-Time Communication](#real-time-communication)
   * [Social Media](#social-media)
   * [Other](#other)
 - [Education](#education)
+- [Emulation](#emulation)
 - [Games](#games)
 - [Media Players](#media-players)
 - [Music](#music)
@@ -162,28 +163,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Emulation
 
-- [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Lemuroid is an open-source emulation project for Android based on Libretro. Its main goal is ease of use, good Android integration and a great user experience.<br>
-List of supported systems:<br>
-Atari 2600 (A26)<br>
-Atari 7800 (A78)<br>
-Atari Lynx (Lynx)<br>
-Nintendo (NES)<br>
-Super Nintendo (SNES)<br>
-Game Boy (GB)<br>
-Game Boy Color (GBC)<br>
-Game Boy Advance (GBA)<br>
-Sega Genesis (aka Megadrive)<br>
-Sega CD (aka Mega CD)<br>
-Sega Master System (SMS)<br>
-Sega Game Gear (GG)<br>
-Nintendo 64 (N64)<br>
-PlayStation (PSX)<br>
-PlayStation Portable (PSP)<br>
-FinalBurn Neo (Arcade)<br>
-Nintendo DS (NDS)<br>
-NEC PC Engine (PCE)<br>
-Neo Geo Pocket (NGP)<br>
-Neo Geo Pocket Color (NGC)<br>
+- [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Lemuroid is an open-source emulation project for Android based on Libretro. Its main goal is ease of use, good Android integration and a great user experience. It has an extensive list of built-in emulators.<br>
 
 
 ## Games
