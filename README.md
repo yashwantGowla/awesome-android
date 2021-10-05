@@ -219,6 +219,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Personalisation
 
+- [Animated Theme Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
 - [App Launcher](https://f-droid.org/en/packages/com.simplemobiletools.applauncher/) - A simple holder for your favourite app launchers.
 - [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/) - Blazingly fast launcher focused on search.
 - [Lawnchair 2](https://lawnchair.app/) - Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3).
