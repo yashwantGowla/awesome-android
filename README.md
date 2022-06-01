@@ -315,6 +315,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - A Free and Open Source software download manager.
 - [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
 - [MoeList](https://github.com/axiel7/MoeList) - Unofficial MAL (MyAnimeList) client. With this app you can easily track, rate, organize and discover new Anime & Manga.
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Network monitor and traffic dump tool (Root permission is optional).
 - [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
 - [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories.
 - [TrackerControl](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) - TrackerControl allows to monitor and control hidden data collection in apps.
