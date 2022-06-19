@@ -188,6 +188,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [mpv](https://mpv.io/) - Minimal media player.
 - [VLC](https://www.videolan.org/) - Minimal media player.
+- [NOVA](https://github.com/nova-video-player/aos-AVP) - Video player for local/network content with subtitle/metadata download support.
 
 ## Music
 
@@ -264,6 +265,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Privacy Friendly QR Scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner) - A QR / bar code scanner
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
 - [Tasks](https://tasks.org/) - A To-Do list app based on Astrid To-Do list app.
+- [DioHub](https://github.com/NamanShergill/diohub) - Interact with GitHub from mobile.
 
 ## Streaming
 
