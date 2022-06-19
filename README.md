@@ -269,6 +269,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Streaming
 
+- [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
 - [NewPipe](https://newpipe.schabi.org/) - Lightweight Google-free YouTube client.
 - [SkyTube](https://skytube-app.com/) - An open-source YouTube™ app for Android™.
 - [Twire](https://github.com/twireapp/Twire) - An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch.
