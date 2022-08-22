@@ -282,6 +282,12 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
 - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
 
+## Jetpack Compose
+- [SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/) - A Collection of major Jetpack compose UI components which are commonly used.
+- [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton/) - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
+- [SSJetpackComposeSwipeableView](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView/) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
+- [SSComposeOTPPinView](https://github.com/SimformSolutionsPvtLtd/SSComposeOTPPinView) - A custom OTP view to enter a code usually used in authentication. It includes different types of OTPViews which is easy to use and configure your own view and character of OTP using all the attributes.
+
 ## Other Utilities
 
 ### Navigation
